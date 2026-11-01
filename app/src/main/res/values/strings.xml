@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">NovaBot 3D</string>
+    <string name="subtitle_3d_companion">3D AI Personal Companion</string>
+    <string name="tab_stage_chat">3D Assistant</string>
+    <string name="tab_memories">Memory Bank</string>
+    <string name="tab_tasks">Smart Tasks</string>
+    <string name="tab_customize">3D Rig &amp; Voice</string>
+    <string name="hint_ask_novabot">Ask NovaBot anything or give a task…</string>
+    <string name="cd_send_message">Send message</string>
+    <string name="cd_voice_input">Voice input microphone</string>
+    <string name="cd_toggle_tts">Toggle voice speech output</string>
+    <string name="cd_reset_3d_camera">Reset 3D camera angle</string>
+    <string name="cd_poke_robot">Interact with 3D Robot</string>
+    <string name="btn_reset_camera">Reset 3D View</string>
+    <string name="btn_retry">Retry</string>
+    <string name="btn_add_memory">Add Memory</string>
+    <string name="btn_add_task">Add Task</string>
+    <string name="btn_clear_chat">Clear Chat</string>
+    <string name="empty_memories_title">Memory Bank is Ready</string>
+    <string name="empty_memories_subtitle">Tell NovaBot about your preferences, goals, or routines in chat—or add a memory manually below.</string>
+    <string name="empty_tasks_title">All Caught Up</string>
+    <string name="empty_tasks_subtitle">Ask NovaBot to remind you about something in chat, or add a task directly.</string>
+    <string name="permission_mic_rationale">Microphone access lets you talk directly to NovaBot with real-time 3D voice reactions.</string>
+    <string name="accessibility_description">Allows the user to test basic accessibility actions when explicitly enabled in Android Settings.</string>
+    <string name="chat_screen_title">NovaBot AI Chat</string>
+    <string name="cd_back_to_3d_robot">Back to 3D Robot</string>
+    <string name="cd_speak_message">Read message aloud</string>
+    <string name="cd_clear_chat">Clear chat history</string>
+    <string name="empty_chat_title">Chat with NovaBot AI</string>
+    <string name="empty_chat_subtitle">Ask any question, brainstorm ideas, or tell NovaBot something to remember.</string>
+    <string name="prompt_suggestion_1">Explain quantum computing simply</string>
+    <string name="prompt_suggestion_2">Remember my favorite language is Kotlin</string>
+    <string name="prompt_suggestion_3">Write a Python binary search function</string>
+    <string name="cd_copy_message">Copy message or code</string>
+</resources>

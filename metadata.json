@@ -1,0 +1,6 @@
+{
+  "name": "NovaBot 3D",
+  "description": "An expressive 3D robot personal AI assistant with live voice/text chat, emotional 3D avatar animations, and local memory and task management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
